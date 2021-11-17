@@ -12,7 +12,7 @@ jobs:
 language: c
 
 env:
-  - BRANCH=1.4.4
+  - BRANCH=1.6.0
 
 cache:
   directories:
