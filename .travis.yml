@@ -23,6 +23,7 @@ addons:
     update: true
     packages:
       - musl-tools
+      - libssl-dev
 
 # Don't rebuild autotagged
 branches:
